@@ -165,6 +165,7 @@ footer a {
   border-radius: 10px;
   margin: 0 6rem;
   text-decoration: none;
+  color: white;
 }
 .orange-link {
   background-color: #ff764e;
@@ -234,9 +235,13 @@ footer a {
 
 .banner-img-container {
   background-image: url("assets/footer_img.jpg");
+  background-color: green;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 25rem;
 }
 
 /* footer */
 footer {
-  margin-bottom: 2rem;
+  margin-bottom: 4rem;
 }
