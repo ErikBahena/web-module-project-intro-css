@@ -144,9 +144,6 @@ a {
   width: max-content;
   padding: 0.8rem 4rem;
 }
-span {
-  font-weight: bold;
-}
 
 section {
   padding: 4% 0;
@@ -179,6 +176,7 @@ footer a {
 }
 
 /* title-section */
+
 .title-section img {
   border-radius: 50%;
   height: 17rem;
@@ -191,7 +189,6 @@ footer a {
   display: inline-block;
   position: absolute;
   text-align: center;
-  margin-right: 10rem;
 }
 
 .title-text h1 {
